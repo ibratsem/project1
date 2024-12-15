@@ -7,3 +7,5 @@ def ask_yes_no():
         print("good")
     elif response.lower() == 'n':
         print(":-(")
+
+ask_yes_no()
